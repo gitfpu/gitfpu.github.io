@@ -40,3 +40,7 @@
 *   [🧭 点此查看我 Fork 的开源 AI 智能体中文大地图](https://github.com)
 *   [🛠️ 了解目前全球大火的本地大模型固件 Ollama](https://github.com)
 
+---
+
+* [🎬 兼容老iMac的万能播放器 IINA v1.2.0 下载点](https://github.com)
+
